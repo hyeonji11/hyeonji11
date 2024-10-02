@@ -1,6 +1,6 @@
 ### hyeonji 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji11)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji11&show_icons=true&theme=buefy)
 <!--
